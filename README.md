@@ -3,4 +3,7 @@ myhelloworld
 
 My first repo on github
 
-Nothing else to say.
+Mac VIM quick command:
+^ To the front
+$ To the end
+
